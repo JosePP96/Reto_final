@@ -1,0 +1,12 @@
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de caché y directorios
+__pycache__
+.pytest_cache/
+
+# Ignorar archivos de entorno virtual
+venv/
+
+# Ignorar archivos de configuración local
+.env
